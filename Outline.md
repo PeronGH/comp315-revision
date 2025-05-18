@@ -1026,8 +1026,6 @@
     *   Defines the UI for displaying a single product (image, name, price, etc.).
 
 ## 14. Next.js
-*(Corresponds to original topic 19: Next.js I - Slides 717-742, original topic 20: Next.js II - Slides 743-793, original topic 24: Next.js III - Slides 922-956)*
-
 ### A. Introduction to Next.js
 *   React framework for building full-stack web applications.
 *   Extends React with features for server-side rendering, routing, API routes, etc.
